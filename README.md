@@ -7,7 +7,128 @@
 
 #### Problem statement
 
-1
+My motivation:
+
+My rationale for building this project:
+
+What problem does it solve:
+
+What I learned:
+
+What makes this project stand out:
+
+ If your project has a lot of features, consider adding a "Features" section and listing them here.
+
+<br><br>
+
+---
+
+What is the project:
+
+. For this project a data set was created by simulating a real-world phenomenon: *****
+
+ *You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose.*
+<br><br>
+2. Specifically, in this project:
+
+- A real-world phenomenon was chosen that:
+     - can be measured
+     - at least one-hundred data points can be collected across at least four different variables.<br><br>
+
+-  My investigation included:
+    - The types of variables involved
+    - their likely distributions
+    - their relationships with each other.<br><br>
+
+- To further explore the data:
+    - data sets were synthesised/simulated (closely matching their properties as possible)
+    - The Python random package 'NumPy was used to for simulation purposes <br><br>
+
+
+
+- Detail your research and implement the simulation in a Jupyter notebook
+- the data set itself can simply be displayed in an output cell within the notebook.
+<br><br>
+
+---
+
+### Note:
+ this project is about simulation – you must synthesise a data set. Somestudents may already have some real-world data sets in their own files. It is okay tobase your synthesised data set on these should you wish (please reference it if you do),but the main task in this project is to create a synthesised data set. The next sectiongives an example project idea.
+<br><br>
+
+---
+
+
+For this project a data set was created by simulating a real-world phenomenon: 
+
+ 
+ Global warming
+
+ Look at 4 countries:
+ 
+ 1. Mean global temperature rise
+ 2. Mean CO2 concentration in atmosphere
+ 3. Aviation miles
+ 4. Car sales
+ 5. Mean sea height
+<br><br>
+
+---
+Rat-race
+
+For 4 countries i.e. Ireland, USA, Sweden, South Korea
+ 1. Hours worked
+ 2. Holidays
+ 3. Divorce Rate per capita
+ 4. Alcoholism per capita
+ 5. Suicide Rate per capita (by age groups)
+ 5. Hours studied per dsy/week
+<br><br>
+
+---
+ Hurricane Prediction
+
+ 1. Mean sea temperature atlantic Jan-Dec
+ 2. Mean sea temperature 1970-2020
+ 3. Annual # of hurricanes of each category (1,2,3,4,5)
+ 4. Annual fatalities
+<br><br>
+
+---
+ CoViD Hospitalizations
+
+ 1. Age at time of admission
+    - Average days hospitalized
+    -  % admitted to ICU
+    - Length of stay in ICU
+
+2. BMI at time of admission
+    - Average days hospitalized
+    - % admitted to ICU
+    - Length of stay in ICU
+
+2. Vaccinated/Unvaccinated at time of admission
+    - Average days hospitalized
+    - % admitted to ICU
+    - Length of stay in ICU
+
+<br><br>
+
+---
+
+
+
+
+– you might pick one that is of interest to you in your personal or professional life.
+Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python.
+
+We suggest you use the numpy.random package for this purpose.
+Specifically, in this project you should:
+
+Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.
+Investigate the types of variables involved, their likely distributions, and their relationships with each other.
+Synthesise/simulate a data set as closely matching their properties as possible.
+Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook. Note that this project is about simulation – you must synthesise a data set.
 
 ---
 ---
@@ -50,7 +171,9 @@ Steps to install
 1. open terminal 
 2. run jupyter with ``Pyplot.ipynb``
 3. open browser (chrome or windows)
+<br><br>
 
+---
 ## Explore 
 
 Have a look at the two notebooks in this repository in Jupyter
@@ -69,13 +192,19 @@ e.g. plot of y = x2 can change the range of values.
  def f(x)
  return x * x
  ```
+<br><br>
 
+---
 
 
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
+<br><br>
+
+---
+---
 
 A README needs to answer the following what, why, and how:
 
@@ -84,31 +213,12 @@ Why did you build this project?
 What problem does it solve?
 What did you learn?
 What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.
+<br><br>
 
+---
 # Programming for Data Analytics- Data Simulation- Paul Mc Grath GMIT
 
-What is the project:
 
-. For this project you must create a data set by simulating a real-world phenomenon of
-your choosing. You may pick any phenomenon you wish – you might pick one that is
-of interest to you in your personal or professional life. Then, rather than collect data
-related to the phenomenon, you should model and synthesise such data using Python.
-We suggest you use the numpy.random package for this purpose.
-
-2. Specifically, in this project you should:
-
-- Choose a real-world phenomenon that can be measured and for which you could
-collect at least one-hundred data points across at least four different variables.
-- Investigate the types of variables involved, their likely distributions, and their
-relationships with each other.
-- Synthesise/simulate a data set as closely matching their properties as possible.
-- Detail your research and implement the simulation in a Jupyter notebook
-- the data set itself can simply be displayed in an output cell within the notebook.
-
-### Note:
- this project is about simulation – you must synthesise a data set. Somestudents may already have some real-world data sets in their own files. It is okay tobase your synthesised data set on these should you wish (please reference it if you do),but the main task in this project is to create a synthesised data set. The next sectiongives an example project idea.
-
- 
 
 Project Definition
 - GitHub Repository
@@ -119,29 +229,23 @@ Project Definition
 - A clear and informative README.md explaining why the repository exists, what is in it, and how to run the notebooks. (10%)
 - A requirements.txt file that enables someone to quickly run your notebooks with minimal configuration. You should also include any other required files such as data files and image files.(10%)
 
-Pyplot Notebook
-- Include a Jupyter notebook called pyplot.ipynb that contains the following.
 
-- A clear and concise overview of the matplotlib.pyplot Python package [3],pitched at your classmates. (15%)
-- An in-depth explanation of three interesting plots from the matplotlib.pyplot Python package [3]. You have free reign to choose the three plots yourself.(25%)
+ <br><br>
 
-
-CAO Points Notebook
-- Include a Jupyter notebook called 'CAO points.ipynb' that contains the following.
-
- - clear and concise overview of how to load CAO points info from the CAO website into a PANDAS dataframe (10%)
- - Detailed comparison of CAO points in 2019,2020,2021 using the functionality in pandas (20%)
- - Appropriate plots and other visuaizations to enhance your notebook for viewers (10%)
- 
+---
  Project Plan:
  
 - Include Your Project's Title. This is the name of the project. ...
+<br><br>
 
+---
 Write a Description.   
 - what it does, technology used, challenges
 - Elevator phrase of the project
 Add a Table of Contents (Optional) ...
+<br><br>
 
+---
 How to Install Your Project. ...
 - what you need to run the notebook i.e. need to have Python 3 installed.  Anaconda recommended.
 - Install jupyter (to run the notebook)
@@ -153,23 +257,25 @@ How to Install Your Project. ...
 - talk them through that the key file is ipynb file.
 - jupyter starts off in web browser but is running on your machine
 - give pointers:  kernel clear outputs, run all to run the program cells
-- how to interact with the package recommend to pitch to an employer
-- who is computer literate but dosent know python
+- how to interact with the package recommend to pitch to an employer <br>
+**who is computer literate but dosent know python**
 
+### Credits/References
 - include credits: if e.g. closely followed tutorial
-- mentionm where you used a e.g. blogpost or website.  Give the author the credit.
+- mention where you used a e.g. blogpost or website.  Give the author the credit.
 - put a comment in notebook if used code from stackoverflow no need to add in README
 
+### Licences
 - list the licence if have one- of if not rely on the default
 
-- Badged: NB viewer  binder.  Badges are images that look like badges
+### Badged: NB viewer  binder.  Badges are images that look like badges
 
 Add contact details if you want
 
-Troubleshooting:
+### Troubleshooting:
 - if you get a warning then e.g. ignore, rerun cell
 
-Conclusion:
+### Conclusion:
 - what you would do with this project in future- what could others do with it
 
 How to Use Your Project. ...
