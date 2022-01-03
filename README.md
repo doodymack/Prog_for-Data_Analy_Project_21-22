@@ -4,11 +4,19 @@
 <br>
 
 This repository contains a jupyter notebook and other relevant files used to demonstrate my work on:
-- ``Simulation of Data using Numpy Random`
+-  Simulation of Data using Numpy Random in PANDAS
 <br>
 
  for my module: 
  Programming for Data Analytics
+
+
+### Project Requirements:
+
+Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables. <br>
+Investigate the types of variables involved, their likely distributions, and their relationships with each other.<br>
+Synthesise/simulate a data set as closely matching their properties as possible. <br>
+Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook <br>
 
 ---
 ---
@@ -139,7 +147,11 @@ Review the comments under each pair plot in the 'Simulation_Notebook' for more i
 
 ### Plotting the simulated datasets and looking for correlations
 When the simulated datasets were plotted using histogram and correlations plots (seaborn Pairgrid) weaker correlations were apparent between all attributes. <br>
-Review the comments under each pair plot in the 'Simulation_Notebook' for more information.
+Review the comments under each pair plot in the 'Simulation_Notebook' for more information. <br>
+
+---
+
+<br>
 
 
 ### Conclusion:
